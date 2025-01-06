@@ -41,10 +41,11 @@ include("hotel.php")
 
         <nav class="navbar">
             <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="index.html">Book</a></li>
-                <li><a href="index.html">Services</a></li>
-                <li><a href="index.html">Contact Us</a></li>
+                <li><a href="main.php">Home</a></li>
+                <li><a href="main.php">Book</a></li>
+                <li><a href="order.php">Pesanan Anda</a></li>
+                <li><a href="main.php">Services</a></li>
+                <li><a href="main.php">Contact Us</a></li>
             </ul>
         </nav>
 
