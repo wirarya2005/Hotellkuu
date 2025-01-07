@@ -53,7 +53,7 @@ include("hotel.php")
 
         <div class="login">
             <a href="" id="menu"><i class="ri-menu-line"></i></a>
-            <a href="">Login</a>
+            <a href="">Logout</a>
         </div>
 
     </header>
